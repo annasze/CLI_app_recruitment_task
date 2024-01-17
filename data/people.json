@@ -1,0 +1,441 @@
+[
+    {
+        "firstname": "Emma",
+        "telephone_number": "187739875",
+        "email": "emmaa@example.",
+        "password": "0HGQjagt)O",
+        "role": "user",
+        "created_at": "2021-12-08 23:45:17",
+        "children": [
+            {
+                "name": "Andrew",
+                "age": 3
+            },
+            {
+                "name": "Olivia",
+                "age": 14
+            },
+            {
+                "name": "Robert",
+                "age": 2
+            }
+        ]
+    },
+    {
+        "firstname": "Mila",
+        "telephone_number": "928727591",
+        "email": "milao.@example.com",
+        "password": "2i5h30Z1uH",
+        "role": "user",
+        "created_at": "2023-01-29 09:26:53",
+        "children": [
+            {
+                "name": "John",
+                "age": 16
+            }
+        ]
+    },
+    {
+        "firstname": "Gabriel",
+        "telephone_number": "(34)684469286",
+        "email": "gabrielx.@example.com",
+        "password": "hdliTeB2}i",
+        "role": "user",
+        "created_at": "2022-01-15 01:29:07",
+        "children": [
+            {
+                "name": "Emily",
+                "age": 15
+            },
+            {
+                "name": "Daniel",
+                "age": 6
+            },
+            {
+                "name": "Zoe",
+                "age": 10
+            }
+        ]
+    },
+    {
+        "firstname": "Sophia",
+        "telephone_number": "266528158",
+        "email": "sophiac@example.",
+        "password": "NTGbvnvl1m",
+        "role": "admin",
+        "created_at": "2023-02-18 14:45:15",
+        "children": [
+            {
+                "name": "Christopher",
+                "age": 8
+            },
+            {
+                "name": "Sophia",
+                "age": 6
+            },
+            {
+                "name": "Michael",
+                "age": 12
+            }
+        ]
+    },
+    {
+        "firstname": "Emily",
+        "telephone_number": "0044484674173",
+        "email": "emilyx@example.com",
+        "password": "nerUC}NFyK",
+        "role": "admin",
+        "created_at": "2023-09-30 02:45:54",
+        "children": [
+            {
+                "name": "David",
+                "age": 6
+            },
+            {
+                "name": "Benjamin",
+                "age": 12
+            }
+        ]
+    },
+    {
+        "firstname": "James",
+        "telephone_number": "657686465",
+        "email": "jamesv@example.com",
+        "password": "rCzJybC1k1",
+        "role": "admin",
+        "created_at": "2021-08-08 20:50:10",
+        "children": [
+            {
+                "name": "Joseph",
+                "age": 15
+            }
+        ]
+    },
+    {
+        "firstname": "Christopher",
+        "telephone_number": "(39)759361241",
+        "email": "christophert@example.",
+        "password": "kltAoc!{9K",
+        "role": "admin",
+        "created_at": "2023-01-29 15:25:37",
+        "children": [
+            {
+                "name": "Ryan",
+                "age": 9
+            },
+            {
+                "name": "Samuel",
+                "age": 16
+            }
+        ]
+    },
+    {
+        "firstname": "Daniel",
+        "telephone_number": "0034675631119",
+        "email": "danielj@example.com",
+        "password": "Q!x7eewWqP",
+        "role": "admin",
+        "created_at": "2021-08-26 08:15:17",
+        "children": []
+    },
+    {
+        "firstname": "Matthew",
+        "telephone_number": "912775114",
+        "email": "matthewh@example.",
+        "password": "vnKViS3yX3",
+        "role": "admin",
+        "created_at": "2022-05-16 06:13:57",
+        "children": [
+            {
+                "name": "Benjamin",
+                "age": 11
+            }
+        ]
+    },
+    {
+        "firstname": "Alexander",
+        "telephone_number": "(48)555556541",
+        "email": "alexanderk@example.com",
+        "password": "U67YZ6QZ7Q",
+        "role": "admin",
+        "created_at": "2023-12-25 17:29:45",
+        "children": [
+            {
+                "name": "Avery",
+                "age": 6
+            }
+        ]
+    },
+    {
+        "firstname": "Lily",
+        "telephone_number": "866369955",
+        "email": "lilyt.@example.com",
+        "password": "Xk9hIEZlGA",
+        "role": "admin",
+        "created_at": "2022-07-19 18:50:22",
+        "children": [
+            {
+                "name": "Ethan",
+                "age": 5
+            }
+        ]
+    },
+    {
+        "firstname": "Ava",
+        "telephone_number": "(48)889298238",
+        "email": "avab@example.com",
+        "password": "JeC5NoLdvj",
+        "role": "admin",
+        "created_at": "2023-07-06 13:36:35",
+        "children": [
+            {
+                "name": "Emily",
+                "age": 11
+            },
+            {
+                "name": "Brian",
+                "age": 14
+            }
+        ]
+    },
+    {
+        "firstname": "Samuel",
+        "telephone_number": "+48447617667",
+        "email": "samuela.@example.com",
+        "password": "ew2PopgLCa",
+        "role": "user",
+        "created_at": "2021-06-22 03:32:52",
+        "children": [
+            {
+                "name": "Abigail",
+                "age": 11
+            }
+        ]
+    },
+    {
+        "firstname": "Joshua",
+        "telephone_number": "266423383",
+        "email": "joshuan@example.com",
+        "password": "w38o32mXkR",
+        "role": "user",
+        "created_at": "2023-01-04 23:17:43",
+        "children": [
+            {
+                "name": "Samantha",
+                "age": 2
+            },
+            {
+                "name": "Layla",
+                "age": 10
+            }
+        ]
+    },
+    {
+        "firstname": "William",
+        "telephone_number": "0048473127139",
+        "email": "williams@example.com",
+        "password": "33d3)6UD8J",
+        "role": "admin",
+        "created_at": "2023-06-28 05:26:03",
+        "children": []
+    },
+    {
+        "firstname": "Christopher",
+        "telephone_number": "",
+        "email": "christopherz@example.com",
+        "password": "cGKc2FszcD",
+        "role": "admin",
+        "created_at": "2023-10-09 03:37:52",
+        "children": [
+            {
+                "name": "William",
+                "age": 7
+            }
+        ]
+    },
+    {
+        "firstname": "Abigail",
+        "telephone_number": "234736259",
+        "email": "abigailz@example.",
+        "password": "hajs2drX58",
+        "role": "admin",
+        "created_at": "2022-01-24 12:44:12",
+        "children": []
+    },
+    {
+        "firstname": "Avery",
+        "telephone_number": "",
+        "email": "averyr@example.com",
+        "password": "rr0DfDWfg8",
+        "role": "user",
+        "created_at": "2021-01-10 09:47:58",
+        "children": [
+            {
+                "name": "Daniel",
+                "age": 1
+            },
+            {
+                "name": "Aria",
+                "age": 1
+            },
+            {
+                "name": "Joseph",
+                "age": 7
+            }
+        ]
+    },
+    {
+        "firstname": "Mia",
+        "telephone_number": "",
+        "email": "miaa@example.",
+        "password": "G1vo3XzSiY",
+        "role": "user",
+        "created_at": "2021-03-25 12:10:36",
+        "children": []
+    },
+    {
+        "firstname": "William",
+        "telephone_number": "+48838745186",
+        "email": "williamx@example.com",
+        "password": "llmbGRy3ti",
+        "role": "user",
+        "created_at": "2021-06-24 19:29:43",
+        "children": [
+            {
+                "name": "James",
+                "age": 14
+            },
+            {
+                "name": "Amelia",
+                "age": 10
+            },
+            {
+                "name": "Ella",
+                "age": 1
+            }
+        ]
+    },
+    {
+        "firstname": "Gabriel",
+        "telephone_number": "0044796794631",
+        "email": "gabrielw@example.com",
+        "password": "ra!TeG5bpN",
+        "role": "user",
+        "created_at": "2023-07-21 04:29:40",
+        "children": [
+            {
+                "name": "Samantha",
+                "age": 5
+            }
+        ]
+    },
+    {
+        "firstname": "Abigail",
+        "telephone_number": "",
+        "email": "abigaild.@example.com",
+        "password": "wy{ROtz(bU",
+        "role": "admin",
+        "created_at": "2022-07-05 23:51:29",
+        "children": []
+    },
+    {
+        "firstname": "Mia",
+        "telephone_number": "181954547",
+        "email": "miah.@example.com",
+        "password": "bCFlNE7SLe",
+        "role": "user",
+        "created_at": "2021-12-18 15:33:19",
+        "children": [
+            {
+                "name": "James",
+                "age": 14
+            }
+        ]
+    },
+    {
+        "firstname": "Gabriel",
+        "telephone_number": "",
+        "email": "gabrielu.@example.com",
+        "password": "b8FZvMNf6z",
+        "role": "admin",
+        "created_at": "2021-08-25 09:46:44",
+        "children": [
+            {
+                "name": "Ava",
+                "age": 4
+            }
+        ]
+    },
+    {
+        "firstname": "Brian",
+        "telephone_number": "+34559762773",
+        "email": "brianm@example.com",
+        "password": "ZHwK)oJs2y",
+        "role": "user",
+        "created_at": "2023-09-05 05:12:31",
+        "children": []
+    },
+    {
+        "firstname": "John",
+        "telephone_number": "(34)969111124",
+        "email": "johnz.@example.com",
+        "password": "4yflQqIWKK",
+        "role": "user",
+        "created_at": "2022-12-12 23:33:54",
+        "children": []
+    },
+    {
+        "firstname": "Daniel",
+        "telephone_number": "0048118153867",
+        "email": "danieli@example.com",
+        "password": "8m(pJVuuDw",
+        "role": "user",
+        "created_at": "2022-02-23 19:43:38",
+        "children": [
+            {
+                "name": "Ava",
+                "age": 10
+            },
+            {
+                "name": "Andrew",
+                "age": 2
+            },
+            {
+                "name": "Ava",
+                "age": 6
+            }
+        ]
+    },
+    {
+        "firstname": "Daniel",
+        "telephone_number": "+39454813141",
+        "email": "daniels@example.com",
+        "password": "{Jnl0lngGe",
+        "role": "admin",
+        "created_at": "2022-12-31 11:32:03",
+        "children": []
+    },
+    {
+        "firstname": "Lily",
+        "telephone_number": "373867944",
+        "email": "lilyr@example.com",
+        "password": "mQYWVHgWSJ",
+        "role": "admin",
+        "created_at": "2023-09-12 03:01:06",
+        "children": []
+    },
+    {
+        "firstname": "Joseph",
+        "telephone_number": "121862586",
+        "email": "josepht.@example.com",
+        "password": "MeViswvF}i",
+        "role": "user",
+        "created_at": "2021-08-04 21:25:38",
+        "children": [
+            {
+                "name": "Avery",
+                "age": 14
+            }
+        ]
+    }
+]
